@@ -4,21 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Clothing Store</title>
+    <title>Wilx - Online Clothing Store</title>
 </head>
 <body>
     <header>
-        <h1>Clothing Store</h1>
+        <h1>Wilx</h1>
     </header>
 
-    <main>
-        <section id="products">
-            <!-- Product listings go here -->
-        </section>
+    <main id="products">
+        <!-- Product listings go here -->
     </main>
 
     <footer>
-        <p>&copy; 2023 Clothing Store</p>
+        <p>&copy; 2023 Wilx - Online Clothing Store</p>
     </footer>
 
     <script src="script.js"></script>
